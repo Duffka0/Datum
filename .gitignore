@@ -1,0 +1,4 @@
+*.o
+*.dll
+*.hpp.gch
+*.exe
